@@ -1,4 +1,4 @@
-#Walmart : predict weekly sales#
+# Walmart : predict weekly sales
 Company's Description 📇
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
 
@@ -22,3 +22,6 @@ Train at least one linear regression model on the dataset, that predicts the amo
 Assess the performances of the model by using a metric that is relevant for regression problems
 Interpret the coefficients of the model to identify what features are important for the prediction
 Train at least one model with regularization (Lasso or Ridge) to reduce overfitting
+
+
+![image](https://user-images.githubusercontent.com/32369680/148320702-7f6741c6-225d-46fb-978f-ece580ac2240.png)
