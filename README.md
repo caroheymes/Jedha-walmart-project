@@ -25,3 +25,8 @@ Train at least one model with regularization (Lasso or Ridge) to reduce overfitt
 
 
 ![image](https://user-images.githubusercontent.com/32369680/148320702-7f6741c6-225d-46fb-978f-ece580ac2240.png)
+
+![image](https://user-images.githubusercontent.com/32369680/148320915-09694f59-9867-43f4-bda6-06f691fd2a00.png)
+
+![image](https://user-images.githubusercontent.com/32369680/148321007-63105f57-e09c-4e07-be56-d63f875bb73f.png)
+
